@@ -1,0 +1,83 @@
+/*
+Avanish Kumar - Responsive One Page Profile
+Version: 1.0
+By: Avanish Kumar, avanishkr018@gmail.com
+
+*/
+body {
+margin-top: 0px;
+font-family: 'Source Sans Pro', sans-serif;
+background-color: #9ae9f2;
+min-width: 960px !important;  
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 { font-weight: 350 }
+*,
+*:focus { outline: none !important }
+a {
+  color: #2d2d2d;
+  cursor: pointer;
+}
+a:hover,
+a:focus {
+  color: #0c86b6;
+  text-decoration: none;
+}
+.hiding { opacity: 0 }
+.showing { opacity: 1 }
+.img-rounded {
+  -webkit-border-radius: 8px;
+     -moz-border-radius: 8px;
+          border-radius: 8px;
+}
+.btn {
+  font-size: 15px;
+  font-weight: bold;
+  text-transform: uppercase;
+  -webkit-border-radius: 2px;
+     -moz-border-radius: 2px;
+          border-radius: 2px;
+  -webkit-transition: all .2s;
+     -moz-transition: all .2s;
+      -ms-transition: all .2s;
+          transition: all .2s;
+}
+.btn-blue {
+  color: #000;
+  background-color: #005071;
+}
+.btn-blue:hover,
+.btn-blue:focus {
+  color: #fff;
+  background-color: #2a3940;
+}
+.page .content.cover 
+{ padding: 90px 0 }
+
+#home {
+  
+  color: #000;
+  background-image: url(../img/home.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 1000px 600px;
+
+}
+#home h1 {
+  margin-top: 0;
+  margin-bottom: 0px;
+  font-size: 60px;
+}
+#home a { margin: 0 5px }
+#home h3 {
+  margin-top: 15px;
+  margin-bottom: 0;
+}
+#home h2 {
+  margin-top: 5px;
+  margin-bottom: 0;
+}

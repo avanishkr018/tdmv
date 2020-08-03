@@ -1,0 +1,19 @@
+.sliderbox{
+	width:661px;
+	height:443px;
+	float:left;
+	margin-left:61px;
+	margin-top:5px;
+}
+.wrapper .main_contaent .about_box .aboutpic ul li {
+	color: #900;
+}
+.wrapper .main_contaent .about_box .aboutpic ul li a {
+	color: #900;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	line-height: 20px;
+}
+.wrapper .main_contaent .about_box .readmore3 a {
+	color: #900;
+}
