@@ -1,1 +1,1 @@
-tileshwaridevimahavidyalaya
+tileshwaridevimahavidyalaya.com
